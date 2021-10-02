@@ -1,6 +1,6 @@
 const  CONFIG  =  {
-    titleWeb : "Phải chăng em đã yêu ngay từ cái nhìn đầu tiên" ,
-    introTitle : 'Trân Mập' ,
+    titleWeb : "Tiêu đề web" ,
+    introTitle : 'Trân mập' ,
     introDesc : Thường lệ vốn trái đất
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -11,10 +11,10 @@ const  CONFIG  =  {
     btn Có : 'Thích lắm <33' ,
     btnNo : 'Không nha: 3' ,
     question : 'Trên thế giới hơn 7 tỉ người mà sao Trân mập lại yêu anh <3' ,
-    btnReply : 'Gửi cho béo <3' ,
+    btnReply : 'Gửi cho Béo <3' ,
     reply : 'Yêu thì yêu mà không yêu thì yêu <33333333' ,
-    mess : 'Anh biết mà 🥰. Yêu bạn nhiều 😘😘 ' ,
-    messDesc : 'Tối nay 9h, call. " ,
+    mess : 'Anh biết mà 🥰. Yêu em nhiều 😘😘 ' ,
+    messDesc : 'Tối nay 9h, call nha. " ,
     btn Chấp nhận : 'Okiiiii lun <3' ,
-    messLink : 'https://www.messenger.com/t/100007986610065' 
+    messLink : 'https://www.messenger.com/t/100007049446879'  
 }
